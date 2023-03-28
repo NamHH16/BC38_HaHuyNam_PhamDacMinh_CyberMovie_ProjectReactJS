@@ -83,11 +83,11 @@ const Login = () => {
           </div>
         </Form>
       </div>
-      <div className="text-center text-neutral-400">
+      {/* <div className="text-center text-neutral-400">
         <span>baoadmin</span>
         <br />
         <span>123123</span>
-      </div>
+      </div> */}
     </div>
   );
 };
